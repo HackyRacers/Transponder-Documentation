@@ -1,5 +1,7 @@
 # Building your own CoreIR transponder
 
+Originally on https://blog.k3s.live/2016/10/12/building-your-own-coreir-transponder/, mirroring here for posterity.
+
 [October 12, 2016](https://mrickert.com/building-your-own-coreir-transponder/) • [19 Comments](https://mrickert.com/building-your-own-coreir-transponder/#comments)
 
 ### Creating your own CoreIR transponder from off-the-shelf components…
